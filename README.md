@@ -5,7 +5,15 @@ As User you can signup, login, add to cart, checkout and payment(using Stripe).
 As Admin you can add/delete product, add new category.
 
 ## Screenshots
+
 ### Main page
+!["Main page"](https://github.com/Stas74/jungle-rails/blob/master/pictures/Overview.PNG)
+
+### Checkout process
+!["Checkout and buying"](https://github.com/Stas74/jungle-rails/blob/master/pictures/Checkout.gif)
+
+### Admin list of categories
+![" Admin list"](https://github.com/Stas74/jungle-rails/blob/master/pictures/Admin_list.gif)
 
 
 ## Additional Steps for Apple M1 Machines
