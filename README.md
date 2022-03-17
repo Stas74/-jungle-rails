@@ -1,6 +1,12 @@
 # Jungle
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+As User you can signup, login, add to cart, checkout and payment(using Stripe).
+As Admin you can add/delete product, add new category.
+
+## Screenshots
+### Main page
+
 
 ## Additional Steps for Apple M1 Machines
 
@@ -22,7 +28,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Stripe Testing
 
-Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
+Use Credit Card # 4242 4242 4242 4242 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
